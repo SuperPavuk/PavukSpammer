@@ -1,0 +1,10 @@
+c:\users\scaryspider\documents\visual studio 2012\Projects\Pavuk Spammer\Pavuk Spammer\bin\Debug\Pavuk Spammer.exe.config
+c:\users\scaryspider\documents\visual studio 2012\Projects\Pavuk Spammer\Pavuk Spammer\bin\Debug\Pavuk Spammer.exe
+c:\users\scaryspider\documents\visual studio 2012\Projects\Pavuk Spammer\Pavuk Spammer\bin\Debug\Pavuk Spammer.pdb
+c:\users\scaryspider\documents\visual studio 2012\Projects\Pavuk Spammer\Pavuk Spammer\bin\Debug\Pavuk Spammer.xml
+c:\users\scaryspider\documents\visual studio 2012\Projects\Pavuk Spammer\Pavuk Spammer\obj\Debug\Pavuk_Spammer.Form1.resources
+c:\users\scaryspider\documents\visual studio 2012\Projects\Pavuk Spammer\Pavuk Spammer\obj\Debug\Pavuk_Spammer.Resources.resources
+c:\users\scaryspider\documents\visual studio 2012\Projects\Pavuk Spammer\Pavuk Spammer\obj\Debug\Pavuk Spammer.vbproj.GenerateResource.Cache
+c:\users\scaryspider\documents\visual studio 2012\Projects\Pavuk Spammer\Pavuk Spammer\obj\Debug\Pavuk Spammer.exe
+c:\users\scaryspider\documents\visual studio 2012\Projects\Pavuk Spammer\Pavuk Spammer\obj\Debug\Pavuk Spammer.xml
+c:\users\scaryspider\documents\visual studio 2012\Projects\Pavuk Spammer\Pavuk Spammer\obj\Debug\Pavuk Spammer.pdb
